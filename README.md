@@ -1,8 +1,8 @@
-# raphael-drivers
+# davinci-drivers
 Very experimental driver pack
 
-This repository contains driver binary files for Xiaomi Redmi K20 Pro.
-All driver binary files form a board support package to be used on Xiaomi Redmi K20 Pro devices to provide hardware support for the Windows operating system.
+This repository contains driver binary files for Xiaomi Mi 9T.
+All driver binary files form a board support package to be used on Xiaomi Mi 9T devices to provide hardware support for the Windows operating system.
 ## Resources
 
 ## Copyright, License, Disclaimers and end user license agreement
